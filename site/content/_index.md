@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience modified
-subtitle: Support sustainable farming while enjoying a cup
+title: Great coffee with a conscience modified 2
+subtitle: Support sustainable farming while enjoying a cup test de modiciaasf
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
